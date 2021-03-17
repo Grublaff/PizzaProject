@@ -1,0 +1,14 @@
+[
+    {
+        "botten": ["Krispig", "Tunn"]
+    },
+    
+    {
+        "topping": ["Kött", "Kyckling", "Tomat"]
+    
+    },
+    {
+        "extra": ["Fanta", "Coca cola", "Sprite"]
+    
+    }
+]
